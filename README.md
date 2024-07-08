@@ -1,0 +1,1 @@
+This is a project to explore real-time web applications and networking, in which users can host and connect to a whiteboard web-app and draw collaboratively.
